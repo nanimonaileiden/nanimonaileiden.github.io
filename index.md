@@ -1,5 +1,6 @@
 
 # Nanimonai
 
-Here is my Blog: a refugee of CCP Digital environment.
+这里是我的博客。
 
+读书、闲扯、日记、照片。
